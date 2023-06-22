@@ -172,7 +172,7 @@ const styles = {
   display: 'flex',
   flexDirection: 'row',
   justifyContent: 'space-around',
-  marginTop: '100px'
+  marginTop: '160px'
  },
  listContainer: {
   backgroundColor: '#ecf0f1',
